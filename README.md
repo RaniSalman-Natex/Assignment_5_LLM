@@ -4,7 +4,7 @@ This project implements a multimodal **Retrieval-Augmented Generation (RAG)** sy
 
 ## 🔗 Live Demo
 
-🌐 [Click to try the Streamlit App](https://share.streamlit.io/your-username/your-repo/main_app.py)
+🌐 [Click to try the Streamlit App]([https://share.streamlit.io/your-username/your-repo/main_app.py](https://assignment5llm-dddxmahcjfbbpg47yfbeek.streamlit.app/))
 
 > Note: Replace with your actual Streamlit Cloud URL.
 
