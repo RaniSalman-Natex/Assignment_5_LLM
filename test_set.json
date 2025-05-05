@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Who is the speaker and where is he from?",
+    "answer_start": 0,
+    "answer_end": 13,
+    "is_answerable": true
+  },
+  {
+    "question": "What is the 15 puzzle and why is it important?",
+    "answer_start": 206,
+    "answer_end": 288,
+    "is_answerable": true
+  },
+  {
+    "question": "Does the speaker discuss applications in robotics?",
+    "answer_start": 948,
+    "answer_end": 960,
+    "is_answerable": true
+  },
+  {
+    "question": "What is token sliding?",
+    "answer_start": 843,
+    "answer_end": 860,
+    "is_answerable": true
+  },
+  {
+    "question": "What open questions remain about token jumping?",
+    "answer_start": 1721,
+    "answer_end": 1743,
+    "is_answerable": true
+  },
+  {
+    "question": "When did the collaboration on this project begin?",
+    "answer_start": 91,
+    "answer_end": 106,
+    "is_answerable": true
+  },
+  {
+    "question": "What are the challenges in proving hardness results?",
+    "answer_start": 1876,
+    "answer_end": 1935,
+    "is_answerable": true
+  },
+  {
+    "question": "How does graph coloring relate to reconfiguration?",
+    "answer_start": 683,
+    "answer_end": 723,
+    "is_answerable": true
+  },
+  {
+    "question": "What is the structure of the reconfiguration graph?",
+    "answer_start": 288,
+    "answer_end": 421,
+    "is_answerable": true
+  },
+  {
+    "question": "What is the complexity of token jumping on bipartite graphs?",
+    "answer_start": 1291,
+    "answer_end": 1310,
+    "is_answerable": true
+  },
+  {
+    "question": "Does the speaker mention the traveling salesman problem?",
+    "is_answerable": false
+  },
+  {
+    "question": "Is machine learning discussed in this talk?",
+    "is_answerable": false
+  },
+  {
+    "question": "Are quantum gates simulated during the presentation?",
+    "is_answerable": false
+  },
+  {
+    "question": "Does the speaker explain dynamic programming?",
+    "is_answerable": false
+  },
+  {
+    "question": "Is there any mention of neural networks or AI?",
+    "is_answerable": false
+  }
+]
